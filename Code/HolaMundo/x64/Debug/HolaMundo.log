@@ -1,0 +1,5 @@
+﻿  HolaMundo.cpp
+C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\HolaMundo\HolaMundo.cpp(9,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\HolaMundo\HolaMundo.cpp(7,9): warning C4101: 'a': variable local sin referencia
+C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\HolaMundo\HolaMundo.cpp(7,12): warning C4101: 'b': variable local sin referencia
+  HolaMundo.vcxproj -> C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\HolaMundo\x64\Debug\HolaMundo.exe
