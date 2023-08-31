@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\Computational-Physics-2\Code\Script5b\x64\Debug\Script5b.exe : fatal error LNK1120: 1 externos sin resolver
