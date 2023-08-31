@@ -1,17 +1,12 @@
-/*This first task is about :
-		An user's input can choice between: Square, circle, triangle or hexagon
-	 and the ouput will be its area an perimeter. 
-*/
-
 #include <iostream>
 using namespace std;
 
 int main() {
 
-	string figure; 
+	string figure;
 	const float PI = 3.1416;
 	float sideSquare, radiusCircle, baseTriangle, heightTriangle, sideHexagon, apHexagon;
-	
+
 
 	cout << "Which of figures you wanna know its area and perimeter? Square (s), Circle (c), Triangle (t) or Hexagon (h)" << endl;
 	cout << "Enter the letter associated to each figure: ";

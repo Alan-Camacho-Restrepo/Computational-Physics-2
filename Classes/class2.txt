@@ -1,0 +1,8 @@
+15-08-23
+
+Operación modulo
+
+ - modulo 5 % 3 = 2
+    6 % 3 = 0
+-for
+- cmath libreria
