@@ -1,0 +1,3 @@
+﻿  Task3.cpp
+C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\Computational-Physics-2\Tasks\Task3\Task3.h(98,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Task3.vcxproj -> C:\Users\Alan\OneDrive\Documentos\2023-2\Computacional 2\Computational-Physics-2\Tasks\Task3\x64\Debug\Task3.exe
